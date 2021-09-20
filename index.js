@@ -41,6 +41,10 @@ var questions = [{
 {
   question: "What is Aryak's Favourite Food? ",
   answer :"Burger"
+},
+{
+  question: "What is Aryak's School Name? ",
+  answer :"ANZA"
 }];
 
 function welcome() {
